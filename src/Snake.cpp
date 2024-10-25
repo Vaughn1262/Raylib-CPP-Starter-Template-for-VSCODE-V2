@@ -1,4 +1,4 @@
-#include "ball.h"
+#include "Snake.h"
 #include <raylib.h>
 
 Ball::Ball() 

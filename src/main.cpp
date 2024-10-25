@@ -1,5 +1,5 @@
 #include <raylib.h>
-#include "ball.h"
+#include "Snake.h"
 
 int main() 
 {
